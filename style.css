@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+}
+
+#img {
+	width: 150px;
+	border-radius: 100px;
+	border: 2px solid;
+	padding: 2px;
+	box-shadow: 10px 10px 15px rgb(255, 0, 0);
+}
+
+#welcome {
+	background: linear-gradient(#e2ffdc 0%, blue);
+	padding-top: 100px;
+	padding-bottom: 70px;
+	color: white;
+}
+
+.line {
+	height: 4px;
+	background-color: black;
+	margin: 8px auto;
+	width: 150px;
+}
+
+p{
+	text-align: justify;
+	line-height: 1.6;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+li{
+	display: inline;
+	float: right;
+	margin-right: 5px;
+	font-size: 15px;
+	color: white;
+}
